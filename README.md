@@ -1,4 +1,10 @@
 # developing_countries_stock_market
+
+## Purpose of repo
+While studying at the University of Michigan, I worked with two classmates, Jong Won Lim and Sang Hyun Han, and studied financial stock market data through the Wharton Research Data Services (WRDS). Our question was this: Are there factors that make an investment in a company in a less developed country profitable, where a similar investment in a more developed country would not be profitable? 
+
+This project was completed in September / October 2022. The main requirements of the project were this: find two data sets and combine them to gather insights that couldn't be found otherwise. We joined WRDS's Compustat Global data with the World Bank's Economy data and received an A grade. Below is text from our presentation, which can be found through the 18-jcharper-dssang-ljongwon.pdf file in this repo.
+
 ## Analyzing stock markets in different development groups
 
 ### The Efficient Market Theory
